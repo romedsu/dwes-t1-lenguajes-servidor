@@ -27,11 +27,16 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 #### Ejemplos de uso
 1. Hola Mundo: print("Hola, Mundo!")
 2. Ciencia de datos: import pandas as pd
-                    df = pd.read_csv('datos.csv') <- cargaría datos desde un csv
-                    print(df.describe())
-3. Juego con Pygame: import pygame
-                    pygame.init()
-                    A partir, de aquí se podrían usar diversos métodos de la librería de pygame que nos ayudarían a el desarrollo del código del juego.
+
+df = pd.read_csv('datos.csv') <- cargaría datos desde un csv
+
+print(df.describe())
+
+4. Juego con Pygame: import pygame
+
+pygame.init()
+
+A partir, de aquí se podrían usar diversos métodos de la librería de pygame que nos ayudarían a el desarrollo del código del juego.
    
 ### Ruby
 
