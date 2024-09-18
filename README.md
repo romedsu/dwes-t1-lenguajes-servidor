@@ -1,2 +1,19 @@
 # dwes-t1-lenguajes-servidor
-prueba
+
+### PHP
+
+### Node.JS
+
+### Python
+
+### Ruby
+
+### Java
+
+### C#
+
+### Go
+
+### Perl
+
+### Rust
