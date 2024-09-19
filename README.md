@@ -41,7 +41,6 @@ A partir, de aquí se podrían usar diversos métodos de la librería de pygame 
 5. Pyramid: se trata de un framework pequeño y liviano que se adapta bien a tareas como exponer el código Python existente como
 
 una API REST (es un tipo de API que sigue un conjunto de reglas y estándares que la hacen más fácil de usar y más compatible con otras aplicaciones) o proporcionar el núcleo de un proyecto web donde el 
-
 desarrollador hace la mayor parte del trabajo pesado.
 
 ### Ruby
