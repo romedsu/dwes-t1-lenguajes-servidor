@@ -27,7 +27,8 @@
 - Caracteristicas
   - Una de sus principales caracteristicas es su facilidad de uso ya que esta diseñado para realizar tareas repetitivas.
   - Es multiplataforma lo cual nos permite operar en multitud de sistemas operativos.
-  - 
+  - Es un lenguaje de alto nivel, diseñado originalmente para tareas de extracción y generación de informes
+    
 - Ejemplos de uso
   - [BugZilla](https://www.bugzilla.org/)
   - [Fronzen Bubble](https://play.google.com/store/apps/details?id=org.jfedor.frozenbubble&hl=es)
