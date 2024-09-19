@@ -28,11 +28,18 @@
   - Una de sus principales caracteristicas es su facilidad de uso ya que esta diseñado para realizar tareas repetitivas.
   - Es multiplataforma lo cual nos permite operar en multitud de sistemas operativos.
   - Es un lenguaje de alto nivel, diseñado originalmente para tareas de extracción y generación de informes
+  - Permite la programacion orientada a objetos, la procedimental y la funcional
     
 - Ejemplos de uso
   - [BugZilla](https://www.bugzilla.org/)
   - [Fronzen Bubble](https://play.google.com/store/apps/details?id=org.jfedor.frozenbubble&hl=es)
   - [DuckDuckGo](https://duckduckgo.com/)
+
+- Ventajas
+  - Es multiplataforma lo que nos permite trabajar en Unix, Windows o Mac OS y por tanto ejecutar el mismo codigo en cualquier sistema
+  - Nos permite manejar una enorme cantidad de datos
+  - Tiene una sintaxis concisa lo que ayuda a escribir programas complejos en pocas lineas de codigo
+  - 
 
 
 
