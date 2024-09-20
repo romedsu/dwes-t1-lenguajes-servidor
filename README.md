@@ -19,9 +19,10 @@
   - Sergio Rodriguez Cadavieco
   - Daniel Couce Garciaç
   - Daniel Santamarta Reguera
-- Descripcion
-  - Perl es un lenguaje de programación basado en C, e inspirado en C++, Pascal, UnixShell, SED, AWK, SmallTalk80, fue pensado para la manipulacion de cadenas de caracteres, archivos y procesos.
-  - Ha influenciado lenguajes como Python, Php, Ruby, EcmaScript, Lpc, WindowsPowershell, Javascript y Falcon.
+- Origen
+  - Surgio en 1987 a manos de Larry Wall con la idea de simplificar y automatizar tareas repetitivas en la administracion de servidores.
+  - Se empezo a popularizar en la progamacion web con la version 4 entre 1991 y 1993, 1 año despues se desplegaria su 5º version siendo la mas utilizada hasta dia      de hoy.
+  - Es un idioma basado en C, pero tambien esta inspirado en otros lenguajes como C++, Pascal o UnixShell entre otros.
     
 - Usos Comunes
   1. Administracion de sistemas operativos, gracias a que es mu potente en la creacion de pequeños programas.
