@@ -10,7 +10,7 @@
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, que se destaca por su legibilidad y simplicidad. Creado por Guido van Rossum y lanzado por primera vez en 1991, Python permite a los programadores expresar conceptos en menos líneas de código que muchos otros lenguajes, lo que facilita su aprendizaje y uso.
 
 #### Autor
-Guifo van Rossum
+Guido van Rossum
 
 #### Origen
 El origen de Python, fue desarrollado inicialmente a fines de la década de 1980 y su primera versión fue lanzada en 1991 en Centrum Wiskunde & Informatica - CWI (Instituto Nacional de Investigación en Matemáticas y Ciencias de la Computación), en los Países Bajos
