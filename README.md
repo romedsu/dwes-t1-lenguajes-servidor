@@ -31,7 +31,7 @@ El origen de Python, fue desarrollado inicialmente a fines de la década de 1980
 - Comunidad Activa: Gran cantidad de recursos, documentación y soporte comunitario.
 
 #### Ventajas e inconvenientes
-- Ventajas
+- Ventajas:
 1. Fácil de aprender y usar: Su sintaxis clara y legible facilita el aprendizaje, especialmente para principiantes.
 2. Versatilidad: Se puede usar en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos y aprendizaje automático.
 3. Amplia biblioteca estándar: Python cuenta con una extensa colección de bibliotecas que cubren muchas necesidades, lo que ahorra tiempo y esfuerzo.
