@@ -17,7 +17,7 @@
 ### Perl
 - Autores
   - Sergio Rodriguez Cadavieco
-  - Daniel Couce Garciaç
+  - Daniel Couce Garcia
   - Daniel Santamarta Reguera
 - Origen
   - Surgio en 1987 a manos de Larry Wall con la idea de simplificar y automatizar tareas repetitivas en la administracion de servidores.
