@@ -10,7 +10,10 @@ Hakuna Matata
 
 ### Ruby
 
-
+# participantes:
+- Alejandro ruisanchez
+- Alexis gonzalez
+- Bruno perez
 
 DESCRIPCION
 Ruby fue creado por el programador japonés Yukihiro «Matz» Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Combina una sintaxis inspirada en Python y Perl con características a Smalltalk. El lenguaje Ruby se utiliza principalmente en el desarrollo de aplicaciones web, pero también se puede utilizar para desarrollar otro tipo de aplicaciones de software, como veremos más adelante. Este lenguaje está disponible en plataformas como Windows, Linux y muchas otras, considerándose multiplataforma. Estar orientado a objetivos significa unciona con datos que el usuario creará en función de sus propias necesidades La simplicidad y la productividad son el foco de este lenguaje, por lo que aprender a programar en Ruby puede ser una gran opción para aquellos que buscan programar fácilmente
