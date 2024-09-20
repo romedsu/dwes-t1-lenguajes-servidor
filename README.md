@@ -94,6 +94,7 @@ LINQ: Para consultas y manipulación de datos integradas en el lenguaje.
 4. Ejemplo de Código
 csharp
 Copiar código
+```c#
 using System;
 
 class Program
@@ -123,6 +124,7 @@ class Persona
         Console.WriteLine($"Hola, me llamo {nombre} y tengo {edad} años.");
     }
 }
+```
 Este código muestra cómo crear una clase Persona y cómo invocar un método para imprimir un saludo en la consola.
 
 ### GO  *(Lenguaje de programación)*
