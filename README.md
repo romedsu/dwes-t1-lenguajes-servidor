@@ -32,18 +32,18 @@ El origen de Python, fue desarrollado inicialmente a fines de la década de 1980
 
 #### Ventajas e inconvenientes
 - Ventajas
-  1. Fácil de aprender y usar: Su sintaxis clara y legible facilita el aprendizaje, especialmente para principiantes.
-  2. Versatilidad: Se puede usar en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos y aprendizaje automático.
-  3. Amplia biblioteca estándar: Python cuenta con una extensa colección de bibliotecas que cubren muchas necesidades, lo que ahorra tiempo y esfuerzo.
-  4. Comunidad activa: Una gran comunidad de desarrolladores proporciona soporte, recursos y contribuciones constantes.
-  5. Desarrollo rápido de prototipos: La sintaxis concisa y la tipificación dinámica permiten crear prototipos rápidamente.
-  6. Portabilidad: El código Python puede ejecutarse en diferentes sistemas operativos sin modificaciones significativas.
+1. Fácil de aprender y usar: Su sintaxis clara y legible facilita el aprendizaje, especialmente para principiantes.
+2. Versatilidad: Se puede usar en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos y aprendizaje automático.
+3. Amplia biblioteca estándar: Python cuenta con una extensa colección de bibliotecas que cubren muchas necesidades, lo que ahorra tiempo y esfuerzo.
+4. Comunidad activa: Una gran comunidad de desarrolladores proporciona soporte, recursos y contribuciones constantes.
+5. Desarrollo rápido de prototipos: La sintaxis concisa y la tipificación dinámica permiten crear prototipos rápidamente.
+6. Portabilidad: El código Python puede ejecutarse en diferentes sistemas operativos sin modificaciones significativas.
 
 - Inconvenientes:
-  1. Velocidad de ejecución: Al ser un lenguaje interpretado, Python puede ser más lento en comparación con lenguajes compilados como C++ o Java.
-  2. Gestión de memoria: La gestión automática de memoria puede ser una limitación en aplicaciones que requieren un control preciso de los recursos.
-  3. Desarrollo móvil y de juegos: No es tan comúnmente utilizado para el desarrollo de aplicaciones móviles o juegos de alto rendimiento.
-  4. Bloqueo global del intérprete (GIL): Puede limitar la capacidad de utilizar eficazmente varios núcleos de procesador en aplicaciones multihilo.
+1. Velocidad de ejecución: Al ser un lenguaje interpretado, Python puede ser más lento en comparación con lenguajes compilados como C++ o Java.
+2. Gestión de memoria: La gestión automática de memoria puede ser una limitación en aplicaciones que requieren un control preciso de los recursos.
+3. Desarrollo móvil y de juegos: No es tan comúnmente utilizado para el desarrollo de aplicaciones móviles o juegos de alto rendimiento.
+4. Bloqueo global del intérprete (GIL): Puede limitar la capacidad de utilizar eficazmente varios núcleos de procesador en aplicaciones multihilo.
 
 #### Ejemplos de uso
 1. Hola Mundo: print("Hola, Mundo!")
