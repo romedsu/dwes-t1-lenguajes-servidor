@@ -8,6 +8,11 @@ Hakuna Matata
 
 ### Python
 
+#### Autores
+- José Manuel Morales Rivera
+- Hugo González Reguero 
+- Sergio Melendi García
+
 #### Descripción
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, que se destaca por su legibilidad y simplicidad. Creado por Guido van Rossum y lanzado por primera vez en 1991, Python permite a los programadores expresar conceptos en menos líneas de código que muchos otros lenguajes, lo que facilita su aprendizaje y uso.
 
@@ -62,9 +67,9 @@ pygame.init()
 A partir, de aquí se podrían usar diversos métodos de la librería de pygame que nos ayudarían a el desarrollo del código del juego.
 
 #### Casos de uso reales observados
-1. Google
-2. Facebook
-3. Instagram
+1. [Google](https://www.google.com/)
+2. [Facebook](https://www.facebook.com/)
+3. [Instagram](https://www.instagram.com/)
    
 ### Ruby
 
