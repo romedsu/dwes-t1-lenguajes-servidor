@@ -261,6 +261,7 @@ Este código muestra cómo crear una clase Persona y cómo invocar un método pa
 ![logo lenguaje de programación GO](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/140px-Go_Logo_Blue.svg.png)
 
 [Sitio web oificial](https://go.dev/)
+#### Autores: *David Fraga, Guillermo Méndez-Trelles y Rodrigo Medina*
 
 ***
 
